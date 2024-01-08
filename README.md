@@ -1,6 +1,9 @@
-# Molecular Conformation Generation via Shifting Scores
+# (Unofficial Repo) Molecular Conformation Generation via Shifting Scores
 
-This code is forked from the official implementation of GeoDiff https://github.com/MinkaiXu/GeoDiff.git. Thanks for their contribution.
+## Paper
+[Molecular Conformation Generation via Shifting Scores](https://openreview.net/forum?id=IJBsKYXaH4)
+
+Some of this code is forked from the official implementation of GeoDiff https://github.com/MinkaiXu/GeoDiff.git. Thanks for their contribution.
 
 ## Environment
 The dependency can be found in `environment.yml`.
@@ -10,11 +13,6 @@ If get the error `AttributeError: module 'setuptools._distutils' has no attribut
 pip uninstall setuptools
 pip install setuptools==59.5.0
 ```
-
-# (Unofficial Repo) Molecular Conformation Generation via Shifting Scores
-
-## Paper
-[Molecular Conformation Generation via Shifting Scores](https://openreview.net/forum?id=IJBsKYXaH4)
 
 ## Data
 We use the same dataset with GeoDiff. Please download from the [Google Drive](https://drive.google.com/drive/folders/1b0kNBtck9VNrLRZxg6mckyVUpJA5rBHh?usp=sharing) the author offered. See also the data folder. 
