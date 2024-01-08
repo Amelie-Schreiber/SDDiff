@@ -1,7 +1,5 @@
 # Molecular Conformation Generation via Shifting Scores
 
-This is the official implementation of our paper: Molecular Conformation Generation via Shifting Scores
-
 This code is forked from the official implementation of GeoDiff https://github.com/MinkaiXu/GeoDiff.git. Thanks for their contribution.
 
 ## Environment
